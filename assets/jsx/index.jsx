@@ -43,7 +43,7 @@ class App extends React.Component {
         <div className={this.state.selectedLearningCircle?'d-none':''}>
           <Search
             searchSubject={'learningCircles'}
-            locale="en"
+            locale="ro"
             onSelectResult={this.handleLearningCircleSelection}
             Browse={BrowseLearningCircles}
           />

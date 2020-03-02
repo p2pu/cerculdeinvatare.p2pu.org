@@ -1,52 +1,70 @@
 ---
-title: About
-about: |
-    Learning circles were started by Peer 2 Peer University (P2PU) and Chicago Public Library in 2015. Since then, this model of peer learning has spread to libraries and community centers across North America, East Africa, and Europe. This year, The Ministry of Magic is proud to partner with P2PU to bring learning circles to Hogwarts.
-faq_title: Frequently asked questions
+title: Despre
+about: Cercurile de învățare au fost create de către Peer 2 Peer University și Biblioteca
+  Publică din Chicago în 2015. De atunci, acest model de învățare de la egal la egal
+  s-a răspândit în bibliotecile și centrele comunitare din America de Nord, Africa
+  de Est și Europa. În acest an, Fundația Progress în parteneriat cu P2PU vor aduce
+  cercurile de învățare în România cu sprijinul Uniunii Europene în cadrul proiectului
+  Erasmus+- Learning circles in libraries
+faq_title: Întrebări frecvente
 faq:
-- q: What is a learning circle?
-  a: |
-        A learning circle is a group of people who meet to learn something together. Learning circles are:
-        - Open to the public
-        - Free for participants
-        - Recurring (generally between 6-8 times)
-        
-        Additionally, learning circles are led by a facilitator, rather than a teacher. This means that the person who is organizing your learning circle is not an expert in the subject that you are learning. They are there to help guide the group through the course and ensure that the meeting space is ready each week.
+- q: Ce este un cerc de învățare?
+  a: 'Cercul de învățare este un grup de oameni care se întâlnesc pentru a învăța
+    ceva împreună. Cercurile de învățare sunt:
 
-- q: What learning materials can be used in learning circles?
-  a: |
-    Most learning circles use a free, online course as the basis of study. While P2PU creates some courses, the vast majority of materials come from other organizations around the web. You are welcome to use any course you would like for a learning circle, so long as it is free for participants and not in violation of the terms of service of the course provider. A complete list of courses currently being used by learning circle facilitators is available at https://www.p2pu.org/courses/
-
-- q: What personal information do I need to provide to participate?
-  a: |
-    Learning circle participants do not need to create an account with Peer 2 Peer University. You can sign up for a learning circle with your name and phone number and/or email address. This information is only used by your facilitator to contact you. If you would like to create a learning circle, then you need to create a P2PU account. Additional questions related to user privacy can be answered by contacting support@p2pu.org.
-
-- q: Does it cost money to participate in a learning circle?
-  a: No, learning circles are free to participate in.
+    Deschise publicului
 
 
-- q: Do I get any certificate at the end of the learning circle?
-  a: P2PU is not a university and does not offer any accredited degree certificates. Some of the online courses that are used in learning circles have degree and/or certificates, but many of these are not free. If you would like a certificate demonstrating the completion of your learning circle, this is possible if you speak with your facilitator.
-
-- q: What is Peer 2 Peer University?
-  a: P2PU is a 501c3 non-profit organization registered in California in the United States, with team members in the US, Canada, and South Africa. The mission of the organization is to create equitable, empowering, and liberating alternatives to mainstream higher education. The majority of funding for P2PU comes from philanthropic and public sources including Institute of Museum and Library Services, Open Society Foundations, Siegel Family Endowment, and Knight Foundation. P2PU also accepts donations and offers a variety of services to organizations that are looking to develop thriving nonformal education communities.
-
-- q: Who funds this project?
-  a: |
-    This project is supported by the European Union Erasmus+ program. “Learning circles in libraries is a 3-year project (2018-2021) led by Fundacja Rozwoju Społeczeństwa Informacyjnego in Poland, with additional partners in Germany (Stadtbibliothek Kőln), Romania (Fundatia Progress), Portugal (Biblioteca Lucio Craveiro da Silva), and Finland (Suomen eOppimiskeskus ry).
-
-    The aim of the project is to facilitate access to useful online learning resources for adults using the learning circle methodology developed by P2PU. Together we are:
-
-    - Conducting background research in 2018-19, including writing a white paper on adult learning and scanning for high quality online learning resources in each partner’s language.
-    - Translating and adapting the learning circle methodology and software in 2019-20.
-    - Training up to 25 learning circle organizers in 2020, who will lead facilitation workshops in each country.
-    - Running a series of facilitation training workshops 2021, leading to learning circles happening in libraries across each of the partner countries.
+    Gratuite pentru toți participanții
 
 
-- q: Can anybody start and facilitate a learning circle?
-  a: |
-    Yes! Learning circles are free to create, all you need is an account with P2PU. We have begun to create some [LANGUAGE]-language resources for facilitators, which you can view and contribute to [here](/facilitate)
+    Recurente (în general au 6-8 întâlniri)
 
+
+    Cercurile de învățare sunt conduse de un facilitator și nu de către un profesor.
+    Asta înseamnă că persoana care organizează cercurile tale de învățare nu este
+    un expert în subiectul pe care urmează să îl înveți. El este acolo pentru a ghida
+    grupul prin curs și pentru a asigura că spațiul de întâlnire este pregătit în
+    fiecare săptămână.'
+- q: Ce materiale pot fi folosite în cadrul cercurilor de învățare?
+  a: 'Pentru Cercurile de învățare majoritatea cursurilor de pe care se poate studia
+    sunt online, gratuite. O parte dintre acestea sunt realizate de P2PU, în timp
+    ce restul materialelor sunt realizate de alte organizații. Poți folosi orice curs
+    pentru Cercurile de învățare, atât timp cât nu presupune costuri pentru participanți
+    și cât respectă termenii și serviciile celor care au realizat materialele. O listă
+    completă a cursurilor, folosite de Facilitatorii Cercurilor de învățare, poate
+    fi găsită aici: https://TEAMURL.p2pu.org/courses/'
+- q: Ce informații personale sunt necesare pentru participare?
+  a: Nu este necesar ca participanții la Cercurile de învățare să aibă un cont pe
+    platforma P2PU. Aceștia se pot înscrie pentru Cercurile de învățare cu numele,
+    numărul de contact și adresa de e-mail. Informațiile folosite pentru înscriere
+    sunt accesate doar de către Facilitator, pentru eventuale contactări. În cazul
+    în care o persoană dorește să formeze un Cerc de învățare, atunci este necesară
+    realizarea unui cont P2PU. Întrebările suplimentare, referitoare la securitatea
+    utilizatorilor pot fi adresate la adresa support@p2pu.org.
+- q: Cât costă participarea la un Cerc de învățare?
+  a: Participarea la Cercurile de învățare este gratuită.
+- q: Voi primi o diplomă pentru activitatea depusă, la finalul cercului de învățare?
+  a: P2PU nu este o universitate și nu acordă certificate de acreditare. O parte din
+    cursurile Cercurilor de învățare oferă diplome sau certificate, dar în cele mai
+    multe cazuri acestea nu sunt gratuite. Dacă dorești un certificat care să ateste
+    participarea și finalizarea activității în cadrul Cercurilor de învățare, te rugăm
+    să iei legătura cu Facilitatorul tău.
+- q: Ce este Universitatea Peer 2 Peer?
+  a: P2PU este o organizație non-profit 501-c3, înregistrată în California, Statele
+    Unite ale Americii, în cadrul căreia există membrii din SUA, Canada și Africa
+    de Sud. Misiunea organizației este de a crea alternative la învățământul superior
+    obișnuit, care se remarcă prin oferirea de șanse egale, perpetuarea încrederii
+    și puterii de sine, dar și a sentimentului de libertate.
+- q: ''
+  a: ''
+- q: Ce reprezintă Cercurile de învățare?
+  a: ''
+- q: Poate oricine să înceapă și să faciliteze un Cerc de învățare?
+  a: Da, oricine poate facilita și crea un Cerc de învățare, fiind necesar doar un
+    cont P2PU. De asemenea, am început traducerea materialelor pentru facilitatori,
+    din engleză în română. Poți vedea și tu materialele sau poți ajuta la traducerea
+    lor aici.
 layout: about
 bundles:
 - style
