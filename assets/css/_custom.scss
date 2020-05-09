@@ -42,13 +42,13 @@ section {
   top: 0;
   width: 40vw;
   z-index: 0;
-  -webkit-mask-image: url(../img/p2pu-bg-dots.svg);
-  mask-image: url(../img/p2pu-bg-dots.svg);
-  fill: $p2pu-yellow;
+  /*-webkit-mask-image: url(../img/p2pu-bg-dots.svg);*/
+  /*mask-image: url(../img/p2pu-bg-dots.svg);*/
+  fill: #AE1B19;
 }
 
 .background-triangle.background {
-  fill: transparentize($p2pu-yellow, 0.5);
+  fill: #AE1B19;
   -webkit-mask-image: none;
   mask-image: none;
 }
@@ -133,8 +133,6 @@ section {
       height: 100%;
       object-fit: cover;
     }
-
-
 
     .header-text {
       padding: 1em 0;

@@ -7799,12 +7799,12 @@ section {
   top: 0;
   width: 40vw;
   z-index: 0;
-  -webkit-mask-image: url(/assets/dist/905ca13c93594f77c3c7fb52fdc19f78.svg);
-  mask-image: url(/assets/dist/905ca13c93594f77c3c7fb52fdc19f78.svg);
-  fill: #FFBC1A; }
+  /*-webkit-mask-image: url(../img/p2pu-bg-dots.svg);*/
+  /*mask-image: url(../img/p2pu-bg-dots.svg);*/
+  fill: #AE1B19; }
 
 .background-triangle.background {
-  fill: rgba(255, 188, 26, 0.5);
+  fill: #AE1B19;
   -webkit-mask-image: none;
   mask-image: none; }
 
