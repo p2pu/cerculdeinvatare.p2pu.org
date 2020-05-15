@@ -1,8 +1,6 @@
 ---
 layout: index
-header: pattern_header.html
-header_pattern: p2pu-bg-dots.svg
-header_image: landing-banner.jpg
+header_pattern: transparent.png
 header_text: P2PU & Fundația Progress
 header_video: https://www.youtube.com/embed/bQqmIS7WQa8
 hero: 'Proiectul Learning Circles ajunge și în România
