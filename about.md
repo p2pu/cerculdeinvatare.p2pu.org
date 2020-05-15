@@ -5,20 +5,18 @@ about: Cercurile de învățare au fost create de către Peer 2 Peer University 
   s-a răspândit în bibliotecile și centrele comunitare din America de Nord, Africa
   de Est și Europa. În acest an, Fundația Progress în parteneriat cu P2PU vor aduce
   cercurile de învățare în România cu sprijinul Uniunii Europene în cadrul proiectului
-  Erasmus+- Learning circles in libraries
+  Erasmus+- Learning circles in libraries.
 faq_title: Întrebări frecvente
 faq:
 - q: Ce este un cerc de învățare?
   a: 'Cercul de învățare este un grup de oameni care se întâlnesc pentru a învăța
     ceva împreună. Cercurile de învățare sunt:
 
-    Deschise publicului
+    - Deschise publicului
 
+    - Gratuite pentru toți participanții
 
-    Gratuite pentru toți participanții
-
-
-    Recurente (în general au 6-8 întâlniri)
+    - Recurente (în general au 6-8 întâlniri)
 
 
     Cercurile de învățare sunt conduse de un facilitator și nu de către un profesor.
