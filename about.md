@@ -31,7 +31,7 @@ faq:
     pentru Cercurile de învățare, atât timp cât nu presupune costuri pentru participanți
     și cât respectă termenii și serviciile celor care au realizat materialele. O listă
     completă a cursurilor, folosite de Facilitatorii Cercurilor de învățare, poate
-    fi găsită aici: https://TEAMURL.p2pu.org/courses/'
+    fi găsită aici: https://cerculdeinvatare.p2pu.org/courses/'
 - q: Ce informații personale sunt necesare pentru participare?
   a: Nu este necesar ca participanții la Cercurile de învățare să aibă un cont pe
     platforma P2PU. Aceștia se pot înscrie pentru Cercurile de învățare cu numele,
@@ -54,10 +54,10 @@ faq:
     de Sud. Misiunea organizației este de a crea alternative la învățământul superior
     obișnuit, care se remarcă prin oferirea de șanse egale, perpetuarea încrederii
     și puterii de sine, dar și a sentimentului de libertate.
-- q: ''
-  a: ''
 - q: Ce reprezintă Cercurile de învățare?
-  a: ''
+  a: Acest proiect este facilitat de către programul european Erasmus +. Cercurile de învățare în biblioteci este un proiect de 3 ani (2018-2021) realizat de Fundacja Rozwoju Społeczeństwa Informacyjnego din Polonia, cu sprijinul partenerilor din Germania (Stadtbibliothek Kőln), România (Fundația Progress), Portugalia (Biblioteca Lucio Craveiro da Silva) și Finlanda (Suomen eOppimiskeskus ry).
+
+    Proiectul își propune să faciliteze accesul adulților la resursele de învățare online, folosind metodologia Cercurilor de învățare, dezvoltată de P2PU.
 - q: Poate oricine să înceapă și să faciliteze un Cerc de învățare?
   a: Da, oricine poate facilita și crea un Cerc de învățare, fiind necesar doar un
     cont P2PU. De asemenea, am început traducerea materialelor pentru facilitatori,
