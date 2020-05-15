@@ -22,6 +22,8 @@ class App extends React.Component {
           <Search
             searchSubject={'courses'}
             locale="ro"
+            courseLink={true}
+            moreInfo={false}
             initialState={{languages: ['ro']}}
             Browse={BrowseCourses}
           />
