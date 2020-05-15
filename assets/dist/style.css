@@ -7843,8 +7843,8 @@ section {
   position: relative; }
   .pattern-header #header-img {
     position: absolute;
-    clip-path: polygon(60% 0%, 100% 100%, 100% 0, 0 0);
-    background-color: #AE1B19; }
+    clip-path: polygon(40% 0%, 100% 100%, 100% 0, 0 0);
+    background-color: rgba(255, 188, 26, 0.5); }
     .pattern-header #header-img, .pattern-header #header-img img {
       width: 100%;
       height: 65vh;
@@ -7870,11 +7870,7 @@ section {
         background: #fff;
         color: #515665;
         padding-right: calc(8.35% + 30px);
-        box-shadow: -2px 2px 6px 1px rgba(0, 0, 0, 0.1);
-        min-height: 300px;
-        display: flex;
-        flex-direction: column;
-        justify-content: center; }
+        box-shadow: -2px 2px 6px 1px rgba(0, 0, 0, 0.1); }
         .pattern-header #page-header #intro-section .intro-text h2 {
           font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
           font-size: 1.5rem;
