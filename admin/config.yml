@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: p2pu/erasmus-partner-site
+  repo: p2pu/cerculdeinvatare.p2pu.org
   branch: gh-pages # Branch to update (optional; defaults to master)
 media_folder: assets/img
 collections:
