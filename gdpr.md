@@ -1,20 +1,34 @@
 ---
 layout: gdpr
 title: GDPR
-gdpr_copy: |
-  Peer 2 Peer University (P2PU) cares about privacy and does not unnecessarily process or share your information. P2PU does not sell or give away any user data to third parties.
+gdpr_copy: >-
+  Celor de la Peer 2 Peer University (P2PU) le pasă de confidențialitatea
+  datelor tale și nu le procesează sau împărtășește în cazuri în care nu este
+  necesar acest lucru. P2PU nu vând și nici nu oferă datele utilizatorilor către
+  terți.
 
-  When you sign up for a learning circle, your email address and information provided in the signup form will be shared with the facilitator of the learning circle. You should expect to receive at least one email when you sign up, one email per meeting and maybe one or two other emails from your facilitator with extra information and/or a request to provide your feedback on the experience. Additionally, if you opt-in to hearing about future learning opportunities from P2PU, you will receive infrequent emails (4 messages per year or less) from P2PU. 
 
-  If at any point you’d like to withdraw consent, you can do so by following the instructions included in all messages we send you. Alternatively, you can also withdraw consent on [this page](https://learningcircles.p2pu.org/en/optout/).
+  Atunci când te înscrii într-un cerc de învățare, adresa ta de e-mail și datele din cadrul formularului de înscriere sunt împărtășite cu facilitatorul grupului în care te-ai înscris. Vei primi cel puțin un e-mail care face referire la înscrierea ta în cercul de învățare, un e-mail pentru a te notifica privind întâlnirile și unul sau două e-mailuri de la facilitatorul grupului, cu mai multe detalii, și/sau o cerere de a oferi o recenzie a experienței. În plus, dacă optezi pentru notificarea referitoare la viitoarele oportunități de învățare a P2PU, vei primi e-mail-uri, dar nu în mod frecvent (4 e-mail-uri pe an sau mai puțin).
 
-  In accordance with art. 13 section 1 and item 2 of the General Regulation on the Protection of Personal Data of April 27, 2016 (GDPR) we inform that:
 
-  - The administrator of your data is Peer 2 Peer University (P2PU ), with its registered address at 2973 16th St., Suite 300, San Francisco, CA 94110, USA under the Employer Identification Number 27-5006096.
-  - Providing data is voluntary, but necessary to participate in this program.
-  - Your personal data is provided only to those entities that must have access to them in order to guarantee the quality of the service (P2PU, the facilitator, and the organization hosting the learning circle).
-  - Personal data will be stored until the consent is withdrawn.
-  - You have the right to access your data and rectify it, delete it, limit processing, the right to transfer data, the right to withdraw consent at any time without affecting the lawfulness of the processing which was carried out on the basis of consent before its withdrawal.
-  - In addition, you have the right to lodge a complaint to the President of the Office for Personal Data Protection if you feel that the processing of personal data violates the GDPR or applicable provisions regarding the processing of personal data.
-  - If you’d like more information, you can review our [privacy policy](https://www.p2pu.org/privacy/), [terms or service](https://www.p2pu.org/terms/) or contact us at privacy@p2pu.org.
+  Dacă dorești să îți retragi acordul o poți face în orice moment, cu ajutorul informațiilor din cadrul fiecărui e-mail primit. De asemenea, îți poți retrage acordul și accesând [această pagină](https://learningcircles.p2pu.org/en/optout/).
+
+
+  În conformitate cu art. 13, alineatele 1 și 2 ale Regulamentului General privind Protecția Datelor (GDPR), din 27 aprilie 2016, te informăm că:
+
+
+  - Administratorul datelor tale este Peer 2 Peer University (P2PU), înregistrat la adresa 2973 Nr. 16, Apartamentul 300, San Franciso, California 94110, SUA, cu numărul de înregistrate (Employer Identification Number) 27-5006096
+
+  - Oferirea datelor este voluntară, dar necesară pentru a participa în cadrul acestui program.
+
+  - Datele personale pe care le oferi sunt împărtășite numai cu entitățile care asigură calitatea serviciilor noastre (P2PU, facilitatorul și organizația care găzduiește cercurile de învățare). 
+
+  - Datele personale vor fi stocate până când îți retragi acordul pentru stocarea lor.
+
+  - Ai dreptul de a accesa datele și de a le modifica, șterge, de a limita procesarea lor, ai dreptul de a transfera datele, de a retrage acordul în orice moment – însă, fără a afecta politica de procesare a informațiilor, care se bazează pe retragerea acordului pentru încetarea procesării datelor. 
+
+  - De asemenea, ai dreptul de a înregistra o plângere către Președintele Biroului de Protecție a Datelor Personale/ Autoritatea Europeană de Protecție a Datelor, în cazul în care consideri că procesarea datelor violează politicile GDPR sau dizpozițiile aplicabile în cazul procesării datelor personale.
+
+
+  Dacă dorești mai multe informații, consultă și [Politica de Confidențialitate](https://www.p2pu.org/privacy/), [Termenii și Serviciile](https://www.p2pu.org/terms/) sau contactează-ne la privacy@p2pu.org.
 ---
