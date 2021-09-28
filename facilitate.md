@@ -20,6 +20,9 @@ resources:
   image: /assets/img/discourse.png
   url: https://community.p2pu.org
   tag: forum
+- title: Resurse suplimentare pentru Facilitatori
+  image: http://www.progressfoundation.ro/wp-content/uploads/2021/07/Obraz1.jpg
+  url: http://www.progressfoundation.ro/cercuri-de-invatare-in-biblioteci/
 - title: Resurse suplimentare pentru Facilitatori (limba engleză)
   image: /assets/img/p2pu.jpeg
   url: https://www.p2pu.org/en/facilitate
