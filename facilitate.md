@@ -16,13 +16,19 @@ resources:
 - title: Cursuri pentru Cercurile de învățare
   image: /assets/img/courses.gif
   url: /courses
+- title: Resurse suplimentare pentru Facilitatori
+  image: http://www.progressfoundation.ro/wp-content/uploads/2021/07/Obraz1.jpg
+  url: http://www.progressfoundation.ro/cercuri-de-invatare-in-biblioteci/
+- title: Ghidul cercurilor de învățare
+  image: http://www.progressfoundation.ro/wp-content/uploads/2021/07/FIN_Toolkit_Romania.pdf
+  url: http://www.progressfoundation.ro/wp-content/uploads/2021/07/Obraz2.jpg
+- title: Manualul facilitatorului
+  image: /assets/img/manual_facilitator.png
+  url: http://www.progressfoundation.ro/faciliteaza-un-cerc-de-invatare-in-biblioteci/
 - title: Forumul Facilitatorilor
   image: /assets/img/discourse.png
   url: https://community.p2pu.org
   tag: forum
-- title: Resurse suplimentare pentru Facilitatori
-  image: http://www.progressfoundation.ro/wp-content/uploads/2021/07/Obraz1.jpg
-  url: http://www.progressfoundation.ro/cercuri-de-invatare-in-biblioteci/
 - title: Resurse suplimentare pentru Facilitatori (limba engleză)
   image: /assets/img/p2pu.jpeg
   url: https://www.p2pu.org/en/facilitate
