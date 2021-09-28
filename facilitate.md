@@ -17,10 +17,10 @@ resources:
   image: /assets/img/courses.gif
   url: /courses
 - title: Resurse suplimentare pentru Facilitatori
-  image: http://www.progressfoundation.ro/wp-content/uploads/2021/07/Obraz1.jpg
+  image: /assets/img/resurse_facilitator.jpg
   url: http://www.progressfoundation.ro/cercuri-de-invatare-in-biblioteci/
 - title: Ghidul cercurilor de învățare
-  image: http://www.progressfoundation.ro/wp-content/uploads/2021/07/FIN_Toolkit_Romania.pdf
+  image: /assets/img/ghid_facilitator.jpg
   url: http://www.progressfoundation.ro/wp-content/uploads/2021/07/Obraz2.jpg
 - title: Manualul facilitatorului
   image: /assets/img/manual_facilitator.png
